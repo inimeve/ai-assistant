@@ -4,7 +4,7 @@ cloud-architecture-diagram
 API gateway [icon: aws-api-gateway]
 Lambda [icon: aws-lambda]
 S3 [icon: aws-simple-storage-service]
-VPC Subnet [icon: aws-vpc]{
+VPC Subnet test [icon: aws-vpc]{
     Main Server {
       Server [icon: aws-ec2]
     Data [icon: aws-rds]
