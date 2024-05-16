@@ -8,5 +8,10 @@ Samples: [﻿https://github.com/mdn/dom-examples/tree/main/web-speech-api](https
 Added diagram
 
 
-
+<!-- eraser-additional-content -->
+## Diagrams
+<!-- eraser-additional-files -->
+<a href="/README-cloud-architecture-1.eraserdiagram" data-element-id="a5KlWgJFhX8d6YQVUwLQe"><img src="/.eraser/evX3jgzjAEHQ7cAtjzYW___rtlbbIuNq4ek5qV550IdBfyxOwh2___---diagram----097217e93dc3be010f7686558aa2c887.png" alt="" data-element-id="a5KlWgJFhX8d6YQVUwLQe" /></a>
+<!-- end-eraser-additional-files -->
+<!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/evX3jgzjAEHQ7cAtjzYW --->
